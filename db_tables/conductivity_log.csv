@@ -1,0 +1,32 @@
+id,date,logged_by,observation
+1,2025-08-17,Julia,
+2,2025-08-22,Julia,
+3,2025-09-18,Julia,"Pos. 14,19 and 20 have big amount of foam"
+4,2025-09-26,Anders,
+5,2025-10-06,Anders,"Production in idle, no air bubbles"
+6,2025-10-17,Anders,
+7,2025-10-24,Julia,
+8,2025-10-30,Daniel,"Production in idle, no air bubbles"
+9,2025-11-05,Julia &Daniel,
+10,2025-11-09,Anders&Roy,
+11,2025-11-13,Anders&Lasse,
+12,2025-11-17,Julia &Daniel,
+13,2025-11-25,Julia &Daniel,Berfore starting back production after 3 day no production
+14,2025-12-01,Lasse,
+15,2025-12-04,Lasse,
+16,2025-12-15,Andri,
+17,2025-12-20,Lasse,
+18,2025-12-29,Mathias,
+19,2026-01-07,Mathias,
+20,2026-01-14,Anders,
+21,2026-01-23,Andreas,
+22,2026-01-28,Julia,
+23,2026-02-03,Roy,
+24,2026-02-08,Anders,
+25,2026-02-13,Roy,low amount of water going to system bcs of not working WTS and no place for water.
+26,2026-02-17,Mathias,using only RO water time to time
+27,2026-03-11,Mathias,using only RO water time to time
+28,2026-03-25,?,
+29,2026-04-01,Andri,
+30,2026-04-27,Daniel,using only RO water
+31,2026-07-15,Daniel,

@@ -1,0 +1,434 @@
+id,strike_bath_log_id,measurement_number,measurement,measurement_type
+1,1,1,-0.19,pH
+2,1,2,-0.18,pH
+3,1,1,13.74,Ni2+ Titration_ml
+4,1,2,13.83,Ni2+ Titration_ml
+5,1,1,8.4806,Cl- Titration_ml
+6,1,2,7.0198,Cl- Titration_ml
+7,2,1,-0.02,pH
+8,2,2,-0.04,pH
+9,2,1,14.92,Ni2+ Titration_ml
+10,2,2,15.03,Ni2+ Titration_ml
+11,2,1,5.93,Cl- Titration_ml
+12,2,2,6.0026,Cl- Titration_ml
+13,3,1,-0.05,pH
+14,3,2,-0.07,pH
+15,3,1,15.0,Ni2+ Titration_ml
+16,3,2,15.16,Ni2+ Titration_ml
+17,3,1,5.9177,Cl- Titration_ml
+18,3,2,5.9444,Cl- Titration_ml
+19,4,1,14.94,Ni2+ Titration_ml
+20,4,2,15.11,Ni2+ Titration_ml
+21,5,1,0.4,pH
+22,5,2,0.4,pH
+23,5,1,16.54,Ni2+ Titration_ml
+24,5,2,16.48,Ni2+ Titration_ml
+25,5,1,5.7116,Cl- Titration_ml
+26,5,2,5.5537,Cl- Titration_ml
+27,6,1,0.41,pH
+28,6,2,0.4,pH
+29,6,1,19.92,Ni2+ Titration_ml
+30,6,2,19.9,Ni2+ Titration_ml
+31,6,1,6.4956,Cl- Titration_ml
+32,6,2,6.4259,Cl- Titration_ml
+33,7,1,0.78,pH
+34,7,2,0.77,pH
+35,7,1,20.49,Ni2+ Titration_ml
+36,7,2,20.47,Ni2+ Titration_ml
+37,7,1,6.1674,Cl- Titration_ml
+38,7,2,6.4729,Cl- Titration_ml
+39,8,1,-0.1,pH
+40,8,2,-0.1,pH
+41,8,1,17.98,Ni2+ Titration_ml
+42,8,2,17.44,Ni2+ Titration_ml
+43,8,1,7.0243,Cl- Titration_ml
+44,8,2,6.9655,Cl- Titration_ml
+45,9,1,0.19,pH
+46,9,2,0.18,pH
+47,9,1,18.06,Ni2+ Titration_ml
+48,9,2,17.91,Ni2+ Titration_ml
+49,9,1,6.7307,Cl- Titration_ml
+50,9,2,6.7727,Cl- Titration_ml
+51,10,1,0.62,pH
+52,10,2,0.62,pH
+53,11,1,0.59,pH
+54,11,2,0.6,pH
+55,11,1,17.85,Ni2+ Titration_ml
+56,11,2,17.74,Ni2+ Titration_ml
+57,11,1,5.8595,Cl- Titration_ml
+58,11,2,5.7961,Cl- Titration_ml
+59,12,1,1.15,pH
+60,12,2,1.17,pH
+61,12,1,18.59,Ni2+ Titration_ml
+62,12,2,18.41,Ni2+ Titration_ml
+63,12,1,5.7973,Cl- Titration_ml
+64,12,2,5.7588,Cl- Titration_ml
+65,13,1,0.49,pH
+66,13,2,0.5,pH
+67,13,1,16.81,Ni2+ Titration_ml
+68,13,2,16.61,Ni2+ Titration_ml
+69,13,1,6.0219,Cl- Titration_ml
+70,13,2,6.3876,Cl- Titration_ml
+71,14,1,0.49,pH
+72,14,2,0.48,pH
+73,14,1,14.88,Ni2+ Titration_ml
+74,14,2,14.73,Ni2+ Titration_ml
+75,14,1,5.4661,Cl- Titration_ml
+76,14,2,5.4344,Cl- Titration_ml
+77,15,1,0.1,pH
+78,15,2,0.15,pH
+79,16,1,0.81,pH
+80,16,2,0.93,pH
+81,16,1,16.39,Ni2+ Titration_ml
+82,16,2,16.07,Ni2+ Titration_ml
+83,16,1,5.4496,Cl- Titration_ml
+84,16,2,5.6326,Cl- Titration_ml
+85,17,1,1.26,pH
+86,17,2,1.25,pH
+87,17,1,16.22,Ni2+ Titration_ml
+88,17,2,16.18,Ni2+ Titration_ml
+89,17,1,5.1694,Cl- Titration_ml
+90,17,2,5.1781,Cl- Titration_ml
+91,18,1,0.71,pH
+92,18,1,14.16,Ni2+ Titration_ml
+93,18,2,14.01,Ni2+ Titration_ml
+94,18,1,4.704,Cl- Titration_ml
+95,18,2,4.7086,Cl- Titration_ml
+96,18,1,10.15,HCl+ Titration_ml
+97,18,2,10.0,HCl+ Titration_ml
+98,19,1,0.94,pH
+99,19,2,0.99,pH
+100,19,1,11.06,Ni2+ Titration_ml
+101,19,2,11.06,Ni2+ Titration_ml
+102,19,1,3.6645,Cl- Titration_ml
+103,19,2,3.6382,Cl- Titration_ml
+104,19,1,0.99,HCl+ Titration_ml
+105,19,2,0.84,HCl+ Titration_ml
+106,20,1,12.92,Ni2+ Titration_ml
+107,20,2,13.19,Ni2+ Titration_ml
+108,20,1,3.05,HCl+ Titration_ml
+109,20,2,2.92,HCl+ Titration_ml
+110,21,1,0.1,pH
+111,21,2,0.09,pH
+112,21,1,13.8,Ni2+ Titration_ml
+113,21,2,13.83,Ni2+ Titration_ml
+114,21,1,6.0261,Cl- Titration_ml
+115,21,2,6.0318,Cl- Titration_ml
+116,21,1,5.99,HCl+ Titration_ml
+117,21,2,5.84,HCl+ Titration_ml
+118,23,1,13.87,Ni2+ Titration_ml
+119,23,2,14.05,Ni2+ Titration_ml
+120,23,1,5.6337,Cl- Titration_ml
+121,23,2,5.4512,Cl- Titration_ml
+122,23,1,4.41,HCl+ Titration_ml
+123,23,2,4.48,HCl+ Titration_ml
+124,24,1,2.8,HCl+ Titration_ml
+125,24,2,2.75,HCl+ Titration_ml
+126,25,1,0.03,pH
+127,25,2,-0.01,pH
+128,25,1,11.06,Ni2+ Titration_ml
+129,25,2,12.04,Ni2+ Titration_ml
+130,25,1,7.0429,Cl- Titration_ml
+131,25,2,6.8812,Cl- Titration_ml
+132,25,1,9.82,HCl+ Titration_ml
+133,25,2,9.9,HCl+ Titration_ml
+134,27,1,0.15,pH
+135,27,1,13.12,Ni2+ Titration_ml
+136,27,2,13.06,Ni2+ Titration_ml
+137,27,1,5.03,HCl+ Titration_ml
+138,27,2,5.07,HCl+ Titration_ml
+139,28,1,0.13,pH
+140,28,2,0.08,pH
+141,28,1,13.61,Ni2+ Titration_ml
+142,28,2,13.69,Ni2+ Titration_ml
+143,28,1,6.3288,Cl- Titration_ml
+144,28,2,6.3033,Cl- Titration_ml
+145,28,1,6.89,HCl+ Titration_ml
+146,28,2,7.01,HCl+ Titration_ml
+147,29,1,-0.19,pH
+148,29,2,-0.17,pH
+149,29,1,12.59,Ni2+ Titration_ml
+150,29,2,12.67,Ni2+ Titration_ml
+151,29,1,6.8311,Cl- Titration_ml
+152,29,2,6.812,Cl- Titration_ml
+153,29,1,10.51,HCl+ Titration_ml
+154,29,2,10.32,HCl+ Titration_ml
+155,30,1,-0.02,pH
+156,30,2,-0.02,pH
+157,30,1,11.88,Ni2+ Titration_ml
+158,30,2,11.55,Ni2+ Titration_ml
+159,30,1,6.0035,Cl- Titration_ml
+160,30,2,6.1164,Cl- Titration_ml
+161,30,1,8.69,HCl+ Titration_ml
+162,30,2,8.58,HCl+ Titration_ml
+163,31,1,10.52,Ni2+ Titration_ml
+164,31,2,10.69,Ni2+ Titration_ml
+165,31,1,10.52,HCl+ Titration_ml
+166,31,2,10.69,HCl+ Titration_ml
+167,32,1,10.05,Ni2+ Titration_ml
+168,32,2,10.25,Ni2+ Titration_ml
+169,32,1,3.04,HCl+ Titration_ml
+170,32,2,2.74,HCl+ Titration_ml
+171,33,1,0.74,pH
+172,33,2,0.74,pH
+173,33,1,9.13,Ni2+ Titration_ml
+174,33,2,9.42,Ni2+ Titration_ml
+175,33,1,3.57,Cl- Titration_ml
+176,33,2,3.5955,Cl- Titration_ml
+177,33,1,2.85,HCl+ Titration_ml
+178,33,2,2.93,HCl+ Titration_ml
+179,34,1,0.19,pH
+180,34,2,0.07,pH
+181,34,1,12.83,Ni2+ Titration_ml
+182,34,2,12.64,Ni2+ Titration_ml
+183,34,1,8.03,HCl+ Titration_ml
+184,34,2,7.98,HCl+ Titration_ml
+185,35,1,0.1,pH
+186,35,2,0.2,pH
+187,35,1,13.16,Ni2+ Titration_ml
+188,35,2,13.12,Ni2+ Titration_ml
+189,35,1,7.29,HCl+ Titration_ml
+190,35,2,7.23,HCl+ Titration_ml
+191,36,1,-0.02,pH
+192,36,2,0.02,pH
+193,36,1,13.49,Ni2+ Titration_ml
+194,36,2,13.28,Ni2+ Titration_ml
+195,36,1,8.25,HCl+ Titration_ml
+196,36,2,8.17,HCl+ Titration_ml
+197,37,1,0.02,pH
+198,37,2,0.06,pH
+199,37,1,13.67,Ni2+ Titration_ml
+200,37,2,13.98,Ni2+ Titration_ml
+201,37,1,6.49,HCl+ Titration_ml
+202,37,2,6.4,HCl+ Titration_ml
+203,38,1,-0.02,pH
+204,38,2,-0.02,pH
+205,38,1,14.06,Ni2+ Titration_ml
+206,38,2,13.98,Ni2+ Titration_ml
+207,38,1,8.21,HCl+ Titration_ml
+208,38,2,8.63,HCl+ Titration_ml
+209,39,1,-0.26,pH
+210,39,2,-0.23,pH
+211,39,1,13.87,Ni2+ Titration_ml
+212,39,2,13.77,Ni2+ Titration_ml
+213,39,1,7.58,HCl+ Titration_ml
+214,39,2,7.55,HCl+ Titration_ml
+215,40,1,0.05,pH
+216,40,2,0.05,pH
+217,40,1,14.9,Ni2+ Titration_ml
+218,40,2,14.82,Ni2+ Titration_ml
+219,40,1,5.52,HCl+ Titration_ml
+220,40,2,5.47,HCl+ Titration_ml
+221,41,1,9.9,HCl+ Titration_ml
+222,41,2,9.68,HCl+ Titration_ml
+223,42,1,9.15,HCl+ Titration_ml
+224,42,2,9.03,HCl+ Titration_ml
+225,43,1,-0.04,pH
+226,43,2,-0.04,pH
+227,43,1,14.58,Ni2+ Titration_ml
+228,43,2,14.67,Ni2+ Titration_ml
+229,43,1,7.96,HCl+ Titration_ml
+230,43,2,7.9,HCl+ Titration_ml
+231,44,1,-0.02,pH
+232,44,2,-0.03,pH
+233,44,1,15.95,Ni2+ Titration_ml
+234,44,2,15.68,Ni2+ Titration_ml
+235,44,1,7.47,HCl+ Titration_ml
+236,44,2,7.28,HCl+ Titration_ml
+237,45,1,6.64,HCl+ Titration_ml
+238,45,2,6.62,HCl+ Titration_ml
+239,46,1,5.82,HCl+ Titration_ml
+240,46,2,5.81,HCl+ Titration_ml
+241,47,1,6.13,HCl+ Titration_ml
+242,47,2,6.08,HCl+ Titration_ml
+243,48,1,0.23,pH
+244,48,2,0.22,pH
+245,48,1,16.6,Ni2+ Titration_ml
+246,48,2,16.6,Ni2+ Titration_ml
+247,48,1,5.66,HCl+ Titration_ml
+248,48,2,5.65,HCl+ Titration_ml
+249,49,1,0.18,pH
+250,49,2,0.18,pH
+251,49,1,17.1,Ni2+ Titration_ml
+252,49,2,16.86,Ni2+ Titration_ml
+253,49,1,5.18,HCl+ Titration_ml
+254,49,2,5.02,HCl+ Titration_ml
+255,50,1,0.21,pH
+256,50,2,0.09,pH
+257,50,1,14.29,Ni2+ Titration_ml
+258,50,2,14.5,Ni2+ Titration_ml
+259,50,1,7.88,HCl+ Titration_ml
+260,50,2,7.69,HCl+ Titration_ml
+261,51,1,13.97,Ni2+ Titration_ml
+262,51,2,14.24,Ni2+ Titration_ml
+263,51,1,6.97,HCl+ Titration_ml
+264,51,2,6.96,HCl+ Titration_ml
+265,52,1,0.33,pH
+266,52,2,0.22,pH
+267,52,1,16.01,Ni2+ Titration_ml
+268,52,2,15.79,Ni2+ Titration_ml
+269,52,1,5.05,HCl+ Titration_ml
+270,52,2,4.88,HCl+ Titration_ml
+271,53,1,8.51,HCl+ Titration_ml
+272,53,2,8.2,HCl+ Titration_ml
+273,54,1,0.05,pH
+274,54,2,0.05,pH
+275,54,1,13.32,Ni2+ Titration_ml
+276,54,2,13.42,Ni2+ Titration_ml
+277,54,1,7.3,HCl+ Titration_ml
+278,54,2,7.22,HCl+ Titration_ml
+279,55,1,0.02,pH
+280,55,2,0.0,pH
+281,55,1,14.39,Ni2+ Titration_ml
+282,55,2,14.59,Ni2+ Titration_ml
+283,55,1,7.59,HCl+ Titration_ml
+284,55,2,7.59,HCl+ Titration_ml
+285,56,1,0.12,pH
+286,56,2,0.02,pH
+287,56,1,14.87,Ni2+ Titration_ml
+288,56,2,15.2,Ni2+ Titration_ml
+289,56,1,7.76,HCl+ Titration_ml
+290,56,2,7.81,HCl+ Titration_ml
+291,57,1,0.01,pH
+292,57,2,-0.01,pH
+293,57,1,13.5,Ni2+ Titration_ml
+294,57,2,13.63,Ni2+ Titration_ml
+295,57,1,7.77,HCl+ Titration_ml
+296,57,2,7.72,HCl+ Titration_ml
+297,58,1,0.34,pH
+298,58,2,0.34,pH
+299,58,1,16.08,Ni2+ Titration_ml
+300,58,2,15.92,Ni2+ Titration_ml
+301,58,1,3.35,HCl+ Titration_ml
+302,58,2,3.29,HCl+ Titration_ml
+303,59,1,0.05,pH
+304,59,2,0.05,pH
+305,59,1,16.18,Ni2+ Titration_ml
+306,59,2,16.24,Ni2+ Titration_ml
+307,59,1,6.93,HCl+ Titration_ml
+308,59,2,6.8,HCl+ Titration_ml
+309,60,1,16.57,Ni2+ Titration_ml
+310,60,2,16.42,Ni2+ Titration_ml
+311,60,1,7.55,HCl+ Titration_ml
+312,60,2,7.7,HCl+ Titration_ml
+313,61,1,13.66,Ni2+ Titration_ml
+314,61,2,13.75,Ni2+ Titration_ml
+315,61,1,7.73,HCl+ Titration_ml
+316,61,2,7.72,HCl+ Titration_ml
+317,62,1,-0.01,pH
+318,62,2,-0.03,pH
+319,62,1,14.63,Ni2+ Titration_ml
+320,62,2,14.87,Ni2+ Titration_ml
+321,62,1,7.63,HCl+ Titration_ml
+322,62,2,7.53,HCl+ Titration_ml
+323,63,1,15.15,Ni2+ Titration_ml
+324,63,2,15.4,Ni2+ Titration_ml
+325,63,1,6.3,HCl+ Titration_ml
+326,63,2,6.31,HCl+ Titration_ml
+327,64,1,0.29,pH
+328,64,2,0.1,pH
+329,64,1,12.13,Ni2+ Titration_ml
+330,64,2,12.19,Ni2+ Titration_ml
+331,64,1,6.95,HCl+ Titration_ml
+332,64,2,6.85,HCl+ Titration_ml
+333,65,1,0.04,pH
+334,65,2,0.05,pH
+335,65,1,13.95,Ni2+ Titration_ml
+336,65,2,14.18,Ni2+ Titration_ml
+337,65,1,6.46,HCl+ Titration_ml
+338,65,2,6.43,HCl+ Titration_ml
+339,66,1,0.12,pH
+340,66,2,0.09,pH
+341,66,1,14.35,Ni2+ Titration_ml
+342,66,2,14.41,Ni2+ Titration_ml
+343,66,1,7.81,HCl+ Titration_ml
+344,66,2,7.79,HCl+ Titration_ml
+345,67,1,0.07,pH
+346,67,2,0.09,pH
+347,67,1,12.98,Ni2+ Titration_ml
+348,67,2,13.17,Ni2+ Titration_ml
+349,67,1,6.2,HCl+ Titration_ml
+350,67,2,6.06,HCl+ Titration_ml
+351,68,1,13.18,Ni2+ Titration_ml
+352,68,1,7.42,HCl+ Titration_ml
+353,68,2,7.54,HCl+ Titration_ml
+354,69,1,0.01,pH
+355,69,2,0.02,pH
+356,69,1,14.22,Ni2+ Titration_ml
+357,69,2,14.28,Ni2+ Titration_ml
+358,69,1,6.33,HCl+ Titration_ml
+359,69,2,6.25,HCl+ Titration_ml
+360,70,1,-0.02,pH
+361,70,2,-0.02,pH
+362,70,1,13.86,Ni2+ Titration_ml
+363,70,2,13.54,Ni2+ Titration_ml
+364,70,1,10.8,HCl+ Titration_ml
+365,70,2,10.26,HCl+ Titration_ml
+366,71,1,0.01,pH
+367,71,2,0.01,pH
+368,71,1,14.65,Ni2+ Titration_ml
+369,71,2,14.82,Ni2+ Titration_ml
+370,71,1,7.73,HCl+ Titration_ml
+371,71,2,7.56,HCl+ Titration_ml
+372,72,1,13.07,Ni2+ Titration_ml
+373,72,2,13.09,Ni2+ Titration_ml
+374,72,1,8.02,HCl+ Titration_ml
+375,72,2,7.89,HCl+ Titration_ml
+376,73,1,0.04,pH
+377,73,2,0.05,pH
+378,73,1,14.58,Ni2+ Titration_ml
+379,73,2,14.65,Ni2+ Titration_ml
+380,73,1,5.66,HCl+ Titration_ml
+381,73,2,5.67,HCl+ Titration_ml
+382,74,1,0.19,pH
+383,74,2,0.15,pH
+384,74,1,12.23,Ni2+ Titration_ml
+385,74,2,12.42,Ni2+ Titration_ml
+386,74,1,11.53,HCl+ Titration_ml
+387,74,2,10.6,HCl+ Titration_ml
+388,75,1,-0.03,pH
+389,75,2,-0.03,pH
+390,75,1,13.98,Ni2+ Titration_ml
+391,75,2,13.5,Ni2+ Titration_ml
+392,75,1,7.26,HCl+ Titration_ml
+393,75,2,7.2,HCl+ Titration_ml
+394,76,1,0.01,pH
+395,76,2,0.01,pH
+396,76,1,14.11,Ni2+ Titration_ml
+397,76,2,14.3,Ni2+ Titration_ml
+398,76,1,6.11,HCl+ Titration_ml
+399,76,2,6.1,HCl+ Titration_ml
+400,77,1,0.03,pH
+401,77,2,0.03,pH
+402,77,1,14.71,Ni2+ Titration_ml
+403,77,2,14.44,Ni2+ Titration_ml
+404,77,1,6.04,HCl+ Titration_ml
+405,77,2,5.9,HCl+ Titration_ml
+406,78,1,0.12,pH
+407,78,2,0.11,pH
+408,78,1,13.58,Ni2+ Titration_ml
+409,78,2,13.76,Ni2+ Titration_ml
+410,78,1,6.34,HCl+ Titration_ml
+411,78,2,6.31,HCl+ Titration_ml
+412,79,1,-0.08,pH
+413,79,2,-0.09,pH
+414,79,1,14.0,Ni2+ Titration_ml
+415,79,2,14.07,Ni2+ Titration_ml
+416,79,1,8.69,HCl+ Titration_ml
+417,79,2,8.65,HCl+ Titration_ml
+418,80,1,14.21,Ni2+ Titration_ml
+419,80,2,14.35,Ni2+ Titration_ml
+420,80,1,8.05,HCl+ Titration_ml
+421,80,2,7.91,HCl+ Titration_ml
+422,81,1,-0.16,pH
+423,81,2,-0.17,pH
+424,81,1,15.31,Ni2+ Titration_ml
+425,81,2,16.15,Ni2+ Titration_ml
+426,81,1,8.12,HCl+ Titration_ml
+427,81,2,8.11,HCl+ Titration_ml
+428,82,1,-0.15,pH
+429,82,2,-0.16,pH
+430,82,1,12.8,Ni2+ Titration_ml
+431,82,2,12.67,Ni2+ Titration_ml
+432,82,1,10.18,HCl+ Titration_ml
+433,82,2,9.74,HCl+ Titration_ml
