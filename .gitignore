@@ -1,0 +1,6 @@
+.idea/
+.venv/
+__pycache__/
+*.pyc
+# Local credentials -- never commit
+config/
